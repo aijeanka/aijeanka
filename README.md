@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Aizhan Uteubayeva@aijeanka
+- 👋 Hi, I’m Aizhan Uteubayeva@aijeanka (she/her/hers)
 - 👀 I’m interested in Health Data Analytics
 - 🌱 I’m currently studying at MS Health Informatics & Data Science, Georgetown University
 - Email: au198@georgetown.edu
-- Pronouns: she/her/hers
 
 
 <!---
