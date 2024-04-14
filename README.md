@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aizhan Uteubayeva@aijeanka
 - 👀 I’m interested in Health Data Analytics
 - 🌱 I’m currently studying at MS Health Informatics & Data Science, Georgetown University
-- 📫 How to reach me aizhan.utb@gmail.com
+- 📫 How to reach me au198@georgetown.edu
 - 😄 Pronouns: she/her/her/hers
 - ⚡ Fun fact: I have studied in the UK and now ended up the US, not sure which one is better
 
